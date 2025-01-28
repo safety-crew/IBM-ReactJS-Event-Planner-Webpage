@@ -2,7 +2,7 @@
   "name": "vite-project",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://safety-crew.github.io/IBM-ReactJS-Event-Planner-Webpage",
+  "homepage": "https://safety-crew.github.com/IBM-ReactJS-Event-Planner-Webpage",
   "type": "module",
   "scripts": {
     "predeploy": "npm run build",
